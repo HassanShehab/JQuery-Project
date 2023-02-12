@@ -1,0 +1,14 @@
+.home{
+    width: 1px;
+    height: 1vh;
+    background: black;
+    color: rgb(151, 151, 151);
+}
+.home h1{
+    display: none;
+}
+.home .card{
+    background: #121212;
+    color: white;
+    display: none;
+}
